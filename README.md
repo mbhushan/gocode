@@ -1,2 +1,3 @@
 # gocode
-Go Exploration!
+
+Fun with Go :)
