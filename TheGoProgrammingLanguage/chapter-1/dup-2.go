@@ -23,7 +23,8 @@ func main()  {
 			f.Close()
 		}
 		for line, n := range counts {
-			if n > 1 {
+			//fmt.Println("am here")
+			if n > 0 {
 				fmt.Printf("%d\t%s\n", n, line)
 			}
 		}
